@@ -1,2 +1,2 @@
 # Random-Programs
-Random programs and not-serious-applications written by me.
+Random programs and applications written by me, mostly in python.
