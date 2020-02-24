@@ -60,7 +60,7 @@ def new():
     
 def view():
     print("================================================================================")                  
-    #print(str(titles)) #prints the list of available titles to read
+    #prints the list of available titles to read
     new=df(titles,columns=['Titles'])
     print(new)
     title=str(input("Enter the title of entry you want to view : "))
