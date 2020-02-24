@@ -8,3 +8,4 @@ It has following features:
 
 To use the PyNote, first you are required to run setup.py script.
 It creates and populates the required folder and primary data files.
+Password required for first time is 1234. You can change it using Change password function.
